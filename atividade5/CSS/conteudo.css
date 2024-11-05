@@ -31,9 +31,9 @@ main {
     padding: 2rem;
 }
 
-/* ---------responsividade 400px--------- */
+/* ---------responsividade 400px--------- */ 
 
-@media (max-width: 500x){ 
+@media (max-width: 600px){ 
 
     main{ 
         width: 100%; 
