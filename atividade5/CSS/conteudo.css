@@ -33,7 +33,7 @@ main {
 
 /* ---------responsividade 400px--------- */
 
-@media (max-width: 450x){ 
+@media (max-width: 500x){ 
 
     main{ 
         width: 100%; 
