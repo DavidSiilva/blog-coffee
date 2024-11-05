@@ -10,7 +10,7 @@ header img {
     display: flex;
     align-items: center;
     background-color:  #987b5d;
-    padding-left: 5rem;
+    padding-left: 0rem;
 
 }
 
@@ -24,7 +24,7 @@ header h1 {
 
 header nav {
     background-color: var(--terra);
-    height: 5rem;
+    height: 4rem;
     padding-left: 6rem;
     display: flex;
     justify-content: center;
