@@ -9,7 +9,7 @@ header img {
 .title {
     display: flex;
     align-items: center;
-    background-color: var(--terra);
+    background-color:  #987b5d;
     padding-left: 5rem;
 
 }
@@ -36,3 +36,25 @@ nav>a {
     color: brown;
     font-size: 1.6rem;
 }
+
+/* -------responsividade 400px------------ */
+
+
+@media (max-width: 400px) {
+
+    header {
+        width: 100%;
+    }
+    .title{ padding-left: 0;}
+
+    header nav {
+        
+        padding-left: 0rem;
+       
+    }
+
+    nav a{ font-size: 1.4rem;}
+    
+}
+
+
